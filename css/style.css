@@ -1,0 +1,150 @@
+
+body {
+    margin: 0;  
+}
+
+button {
+    background-color: #b288c0;
+    color: white;
+    font-weight: bold;
+    padding: 8px 16px;
+    margin: 0 auto;
+    border: grey;
+    border-radius: 2px;
+    display: block;
+    margin-top: 20px;
+    
+}
+
+header {
+    background-image: url(../img/bg-banner-claro.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 4%;
+}
+
+
+header p {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}    
+
+nav ul {
+    display: none;  /*HEADER*/
+}
+
+.menu{
+    background-color: #63458a;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    
+    
+    }
+
+.lista{
+    background: #7e5a96;
+    padding: 5px;
+    height: 20px;
+    display: flex;
+    max-width: 15px;
+}
+
+.logotipo{
+   width: 38%;
+   height: 36px;
+    }
+    
+    
+
+/********main***************/
+
+.imagem1{
+    width: 106px;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+}
+
+.imagem2{
+    background-color: #7e5a96;
+    
+}
+
+.imagem2 p{
+    text-align: center;
+    color: white;
+    padding: 10px 15px;
+    margin: 0;
+}
+
+.personalidades h2{
+    color: #7e5a96;
+    text-align: center;
+    
+
+}
+
+
+.divas_img{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.logotipo{
+    width: 163px;
+
+}
+.equipe{
+
+    margin: 24px 0;
+}
+
+.equipe {
+    background-color: #63458a;
+    padding: 16px 0;
+}
+
+
+.equipe h2 {
+    color: white;
+    text-align: center;
+}
+
+
+.img_equipe {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    
+}
+
+
+.img_equipe div{
+    padding: 10px 10px;
+
+}
+
+
+/********footer***************/
+
+
+
+
+
+
+
+    
+    
+
+
+
